@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Event registration</title>
+  </head>
+  <body>
+      <h2>REGISTRATION FORM</h2>
+  <label for ="name">Name:</label><br><br>
+  <input type id="text"><br><br>
+   <label for ="phone number">phone number:</label><br><br>
+  <input type id="number"><br><br>
+   <label for ="email id">email id</label><br><br>
+  <input type id="email"><br><br>
+   <label for ="gender">gender</label><br><br>
+  <input type id=radio value="male" value="female"><br><br>
+   <label for ="DOB">DOB</label><br><br>
+  <input type="date"><br><br>
+   <label for ="select event">select event<br><br>
+   <option for value ="music concert"></option>
+   <option for value ="tech talk"></option>
+   <label for="submit">submit:</label>
+   <input type ="text " id ="submit"></br>
+  
+  
+  </body>
+</html>
